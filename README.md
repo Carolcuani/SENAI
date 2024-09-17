@@ -1,7 +1,7 @@
 # Olá, sou a Ana Carolina
 
 - 💻 cursando DS
-- Aluna SENAI-SESI
+- 🎓 Aluna SENAI-SESI
 - 📩 contate-me no e-mail: anacarolinacuani@gmail.com
 
    <a href-"https://github.com/Carolcuani">
